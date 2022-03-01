@@ -21,7 +21,7 @@ export default function AboutMe() {
               href={userData.about.currentProjectUrl}
               target="_blank"
             >
-              {userData.about.currentProject} ✈️
+              {userData.about.currentProject} 
             </a>
           </p>
         </div>

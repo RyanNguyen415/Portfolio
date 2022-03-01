@@ -8,24 +8,24 @@ const userData = {
   address: "Westminster, California, USA",
   projects: [
     {
-      title: "Fire-Movies",
-      link: "https://fire-movies.vercel.app/",
-      imgUrl: "/static/fire-movies.png",
+      title: "Favorite-Movies",
+      link: "https://movies-beta-lac.vercel.app/",
+      imgUrl: "/static/movies.png",
     },
     {
-      title: "Rendezvous",
-      link: "https://rendezvous-kohl.vercel.app/",
-      imgUrl: "/static/rendezvous.png",
+      title: "Creative-Agency",
+      link: "https://vercel.com/sonikdash0-gmailcom/creative-agency",
+      imgUrl: "/static/creative.png",
     },
     {
-      title: "Pets-Social",
-      link: "https://social-pet-friends.netlify.app/",
-      imgUrl: "/static/pets-social.png",
+      title: "Shopping-Spree",
+      link: "https://shopping-spree-dun.vercel.app/",
+      imgUrl: "/static/shopping.png",
     },
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact people and businesses",
+      "I'm a software developer who loves building products and web applications that impact people and businesses",
     description: [
       `I've been developing full-stack applications for 12 months.  I started with learning Javascript from Hack Reactor online bootcamp and went on to teach myself the most innovative technologies.  I introduced these to my current work place and am now 
         developing using NodeJs, React, Next.js, Typescript, Express, Mongo Atlas.`,
@@ -35,36 +35,32 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "Soctech & Associates",
-      year: "2021",
-      companyLink: "https://www.softechis.com/",
-      desc: "Contributed to our flagship client - Synchrony Bank - by creating immersive admin applications for the marketing team.",
+      title: "Full Stack Software Developer",
+      company: "K.N. Investments",
+      year: "2021 - present",
+          desc: "Assisted senior developer by creating immersive admin applications for the marketing team, Contributed to documentations and deployment",
     },
     {
-      title: "Internship",
-      company: "Soctech & Associates",
-      year: "2018",
-      companyLink: "https://www.softechis.com/",
-      desc: "Internship for 3 months before hired on full time.  Contributed to documentations and deployment",
+      title: "Pharmacist",
+      company: "Walgreens",
+      year: "2013 - present",
+            desc: "Worked as full time pharmacist for 9 years. I found passion for software and reduced down to part time work to immerse in web development",
+    },
+    {
+      title: "Online Boot Camp",
+      company: "Hack Reactor",
+      year: "2021",
+            desc: "Full stack web development, online full immersive program.",
     },
     {
       title: "Graduation",
-      company: "California State University Los Angeles",
-      year: "2018",
-      companyLink: "https://www.calstatela.edu/",
-      desc: "Major in Computer Science",
-    },
-    {
-      title: "High School",
-      company: "Westminster High SChool.",
-      year: "2007",
-      companyLink: "https://www.whslions.net/",
-      desc: "Honors, AP Classes",
+      company: "Midwestern University, College of Pharmacy",
+      year: "2013",
+            desc: "Doctorate in Pharmacy",
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1X5i8SeefLp3HrIJt7gcX6CFJtVczRwaq/view",
+    "https://docs.google.com/document/d/1BnapxnZM0k4ar1-LdX8BwGGdyE_nXLUghR_HzWk026E/edit?usp=sharing",
   socialLinks: {
     linkedin: "https://www.linkedin.com/in/ryan-nguyen-246282233/",
     github: "https://github.com/ryannguyen415",
