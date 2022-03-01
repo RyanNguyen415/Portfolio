@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="h-0.5 w-full bg-white dark:bg-gray-700" />
         <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row justify-between md:items-center mt-8">
           <div>
-            <p>&copy; Alvin Nguyen. All Rights Reserved.</p>
+            <p>&copy; Ryan Nguyen. All Rights Reserved.</p>
           </div>
           <div />
         </div>
