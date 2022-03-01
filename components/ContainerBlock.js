@@ -22,11 +22,11 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://portfolio-alvin-nguyen.vercel.app${router.asPath}`}
+          content={`https://portfolio-ten-omega-60.vercel.app/${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://portfolio-alvin-nguyen.vercel.app${router.asPath}`}
+          href={`https://portfolio-ten-omega-60.vercel.app/${router.asPath}`}
         />
         {meta.date && (
           <meta property="article:published_time" content={meta.date} />
