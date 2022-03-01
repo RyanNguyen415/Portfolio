@@ -10,7 +10,7 @@ const userData = {
     {
       title: "Favorite-Movies",
       link: "https://movies-beta-lac.vercel.app/",
-      imgUrl: "/static/movies.png",
+      imgUrl: "/static/movie.png",
     },
     {
       title: "Creative-Agency",
