@@ -27,8 +27,8 @@ const userData = {
     title:
       "I'm a software developer that loves building products and web applications that impact people and businesses",
     description: [
-      `I've been developing full-stack applications for 3 years.  I started with learning Javascript and Java from school and went on to teach myself the most innovative technologies.  I introduced these to my current work place and am now 
-        developing using NodeJs, React, Next.js, Typescript, Express, Mongo Atlas.  I also have experience with machine learning with Python SciKit-Learn.`,
+      `I've been developing full-stack applications for 12 months.  I started with learning Javascript from Hack Reactor online bootcamp and went on to teach myself the most innovative technologies.  I introduced these to my current work place and am now 
+        developing using NodeJs, React, Next.js, Typescript, Express, Mongo Atlas.`,
     ],
     currentProject: "Fire Movies",
     currentProjectUrl: "https://fire-movies.vercel.app/",
