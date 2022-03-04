@@ -16,6 +16,27 @@ export default function FavouriteProjects() {
         <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
           {/* Single card */}
           <a
+            href="https://rx-consultation-services.vercel.app/"
+            className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
+            target="_blank"
+          >
+            <div className="relative overflow-hidden">
+              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
+              <img
+                src="/static/rx.png"
+                alt="creative"
+                className="transform hover:scale-125 transition duration-2000 ease-out"
+              />
+              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                Rx-Consulation-Services
+              </h1>
+              <h1 className="absolute bottom-10 left-10 text-black-50 font-bold text-xl">
+                01
+              </h1>
+            </div>
+          </a>
+          {/* Single card */}
+          <a
             href="https://movies-beta-lac.vercel.app/"
             className="w-full block col-span-3 shadow-2xl"
             target="_blank"
@@ -30,32 +51,12 @@ export default function FavouriteProjects() {
                 Favorite-Movies
               </h1>
               <h1 className="absolute bottom-10 left-10 text-gray-50 font-bold text-xl">
-                01
-              </h1>
-            </div>
-          </a>
-          {/* Single card */}
-          <a
-            href="https://creative-agency-mu.vercel.app/"
-            className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
-            target="_blank"
-          >
-            <div className="relative overflow-hidden">
-              {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
-              <img
-                src="/static/creative.png"
-                alt="creative"
-                className="transform hover:scale-125 transition duration-2000 ease-out"
-              />
-              <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
-                Creative-Agency
-              </h1>
-              <h1 className="absolute bottom-10 left-10 text-black-50 font-bold text-xl">
                 02
               </h1>
             </div>
           </a>
           {/* Single card */}
+          
           <a
             href="https://shopping-spree-dun.vercel.app/"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
